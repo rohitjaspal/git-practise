@@ -1,2 +1,6 @@
 "Hello Git Practise!" 
+
 "This line was added in MAIN branch" 
+
+"Another Line for practise branch"  
+
